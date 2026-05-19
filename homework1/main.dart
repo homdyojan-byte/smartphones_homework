@@ -24,9 +24,9 @@ class MyStatelessWidget extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Text('الاسم:زياد سعدون الرشيدي', style: TextStyle(fontSize: 24)),
+            Text('الاسم:محمد زيد بن عوجان', style: TextStyle(fontSize: 24)),
             SizedBox(height: 10),
-            Text('الرقم التدريبي: 445159098', style: TextStyle(fontSize: 24)),
+            Text('الرقم التدريبي: 443229354', style: TextStyle(fontSize: 24)),
           ],
         ),
       ),
